@@ -8,7 +8,7 @@ Final Year Project by:
 
 Srivatsa Sinha
 
-Shiladity Biswas
+Shiladitya Biswas
 
 Birla Institute of Technology, Mesra
  
