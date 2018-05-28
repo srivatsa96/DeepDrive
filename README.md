@@ -14,5 +14,9 @@ Srivatsa Sinha
 
 Shiladitya Biswas
 
+Project Guides:
+
+Dr. S.S.Tripathy and Mr. S.K.Swain.
+
 Birla Institute of Technology, Mesra
  
