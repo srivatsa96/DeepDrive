@@ -1,7 +1,4 @@
 # Deep Drive
-
-In Progress..
-
 # Proposed: A Cloud based End to End Self Driving Car Prototype.
 
 Please see the "Project_Report.pdf" file for a detailed explaination.The idea of this project has been poster presented at the "Intel Student Ambassador Summit" held at San Fransisco from 22nd - 25th May, 2018 by Srivatsa Sinha.
